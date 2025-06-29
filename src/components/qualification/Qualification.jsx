@@ -113,8 +113,29 @@ const Qualification = () => {
             }
           >
             <div className="qualification__data">
+              <div></div>
+
+              <div>
+                <span className="qualification__rounder qualification__rounder-present"></span>
+                <span className="qualification__line"></span>
+              </div>
+
               <div>
                 <h3 className="qualification__title qualification__title-present">
+                  Otim Group Indonesia
+                </h3>
+                <span className="qualification__subtitle">
+                  CV. Otim Group - Graphic Designer
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> 2025 - Present
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title ">
                   Google Developer Group on Campus
                 </h3>
                 <span className="qualification__subtitle">
@@ -126,7 +147,7 @@ const Qualification = () => {
               </div>
 
               <div>
-                <span className="qualification__rounder qualification__rounder-present"></span>
+                <span className="qualification__rounder "></span>
                 <span className="qualification__line"></span>
               </div>
             </div>
