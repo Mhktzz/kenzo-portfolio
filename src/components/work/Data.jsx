@@ -4,6 +4,7 @@ import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4-1.png";
 import Work5 from "../../assets/work5-1.png";
 import Work6 from "../../assets/work6.png";
+import Work7 from "../../assets/work7.png";
 
 export const projectsData = [
   {
@@ -47,6 +48,13 @@ export const projectsData = [
     title: "Solusi Rooftop Modern",
     category: "Web",
     link: "https://mhktzz.github.io/solusi-rooftop-modern/",
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "Shoes and Care - Redesign Web",
+    category: "Design",
+    link: "https://dribbble.com/shots/26364000--Shoes-and-Care-Landing-Page-Redesign?utm_source=Clipboard_Shot&utm_campaign=Muhammmad_kenzo&utm_content=%F0%9F%91%9F%20Shoes%20and%20Care%20-%20Landing%20Page%20Redesign&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Muhammmad_kenzo&utm_content=%F0%9F%91%9F%20Shoes%20and%20Care%20-%20Landing%20Page%20Redesign&utm_medium=Social_Share",
   },
 ];
 
